@@ -1,0 +1,4 @@
+[build]
+entry = "src/main.jsx"  # Update this to your actual entry file
+outdir = "dist"         # Output directory for the build files
+platform = "browser"    # Platform target (in this case, for the browser)
